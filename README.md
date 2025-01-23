@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Hosted Website
 
-https://netflix-clone-60255.web.app/
+https://netflix-clone-229ec.web.app
